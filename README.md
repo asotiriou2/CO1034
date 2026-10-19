@@ -1,2 +1,2 @@
-# CO1034
-First repository - Worksheet 4
+# CO1111
+Module repository for the Computing Challenge.
